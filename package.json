@@ -1,0 +1,14 @@
+{
+  "name": "sample-k8-spark-etl",
+  "version": "1.0.0",
+  "description": "Example Spark on K8 ETL (Extract, Transform, Load)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
